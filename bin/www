@@ -4,7 +4,7 @@
  * Module dependencies.
  */
 
-var app = require('../3-module');
+var app = require('../03-module');
 var debug = require('debug')('tutorial:server');
 var http = require('http');
 
